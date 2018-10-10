@@ -1,0 +1,6 @@
+body {background-color:yellow}
+
+nav {background-color:green;}
+li {padding: 5px; border:1px black double; display: inline-block;}
+
+p {font:arial}
